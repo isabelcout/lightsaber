@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #111 url(star-wars-1-capa.jpg);
+    background: #111 url(imagens/star-wars-1-capa.jpg);
     background-position: center;
     background-size: 75%;
 }
